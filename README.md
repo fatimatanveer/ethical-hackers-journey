@@ -53,15 +53,24 @@ Then visit [http://localhost:3000](http://localhost:3000) in your browser.
 
 **Copyright © Fatima Tanveer 2024**
 
-This project is for educational and demonstration purposes only.  
-No copying, redistribution, or commercial use without explicit written permission.
+**All Rights Reserved.**
+
+This project, **"CyberQuest: The Hacker’s Path,"** is the exclusive property of Fatima Tanveer.
+
+No part of this project may be copied, modified, distributed, or used for any purpose without explicit prior written permission from the copyright owner.
+
+Unauthorized use, reproduction, or distribution is strictly prohibited and may result in legal action.
+
+For inquiries or permission requests, please contact: fatimatanveer@gmail.com
+
+
 
 ---
 
 ## 🌐 Live Demo
 
 **Play the game online:**  
-[Live Demo on Vercel](#)
+[[Live Demo on Vercel](#)](https://ethical-hackers-journey.vercel.app/)
 
 <!-- After deploying to Vercel, update the link above! -->
 
